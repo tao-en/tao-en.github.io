@@ -3163,7 +3163,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/Gemini_Generated_Image_43vi7l43vi7l43vi.png"), url("../../images/20250125_125925.jpg");
+		background-image:  url("../../images/20250125_125925.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
