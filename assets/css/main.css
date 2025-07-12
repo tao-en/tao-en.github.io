@@ -3166,7 +3166,7 @@
 		background-image: url("../../images/1000007393.jpg");
 		background-position: top left,	center center;
 		background-repeat: repeat,no-repeat;
-		background-size: cover;
+		background-size: auto;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
